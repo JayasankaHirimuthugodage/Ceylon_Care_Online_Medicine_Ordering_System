@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* Product Home Styles */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: var(--light-color);
+}
+
+/* Product Card Styles */
+.product-card {
+    background-color: #ffffff; /* White background for product cards */
+    border: 1px solid #e0e0e0; /* Light gray border */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    overflow: hidden; /* Prevent overflow from rounded corners */
+    transition: transform 0.3s; /* Animation on hover */
+}
+
+.product-card:hover {
+    transform: scale(1.05); /* Scale up on hover */
+}
+
+.product-image {
+    width: 100%; /* Full width for images */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.product-name {
+    font-size: 1.5rem;
+    margin: 0.5rem 0;
+    color: var(--primary-color); /* Primary color for product names */
+    text-align: center; /* Center text */
+}
+
+.product-description {
+    font-size: 1rem;
+    margin: 0.5rem 0;
+    color: var(--dark-text); /* Darker text for readability */
+    text-align: center; /* Center text */
+}
+
+.product-price {
+    font-size: 1.2rem;
+    font-weight: bold; /* Bold price */
+    color: var(--accent-color); /* Accent color for prices */
+    text-align: center; /* Center text */
+}
+
+/* Product Actions Styles */
+.product-actions {
+    display: flex;
+    justify-content: space-around; /* Even spacing between buttons */
+    margin: 1rem 0;
+}
+
+.btn-cart, .btn-wishlist, .btn-compare {
+    background-color: var(--secondary-color); /* Use secondary color for buttons */
+    color: var(--text-color); /* Text color */
+    border: none; /* No border */
+    border-radius: 4px; /* Rounded corners */
+    padding: 0.5rem 1rem; /* Padding for buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth background transition */
+}
+
+.btn-cart:hover,
+.btn-wishlist:hover,
+.btn-compare:hover {
+    background-color: var(--primary-color); /* Change to primary color on hover */
+}
+
+/* Responsive Design for Product Grid */
+@media (max-width: 768px) {
+    .product-grid {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Adjust grid for smaller screens */
+        padding: 1rem; /* Less padding */
+    }
+
+    .product-name {
+        font-size: 1.2rem; /* Smaller font size for product names */
+    }
+
+    .product-description {
+        font-size: 0.9rem; /* Smaller font size for descriptions */
+    }
+
+    .product-price {
+        font-size: 1rem; /* Smaller font size for prices */
+    }
+}
