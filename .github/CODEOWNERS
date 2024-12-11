@@ -1,0 +1,13 @@
+# This file designates code owners for specific parts of the repository.
+
+# Owner for all files in the repository
+* @jayasankahirimuthugodage
+
+# Owner for files in the "src" directory
+src/* @jayasankahirimuthugodage
+
+# Owner for a specific file
+README.md @jayasankahirimuthugodage
+
+# Owner for files in the "docs" folder
+docs/* @jayasankahirimuthugodage
