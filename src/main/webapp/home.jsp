@@ -95,7 +95,7 @@
     </main>
 
     <footer class="footer">
-        <p>200/9, Devananda Road, Piliyandala</p>
+        <p>200/9, devananda Road, Piliyandala</p>
         <p>
             &copy; 2024 Ceylon Care. All rights reserved. | <a
                 href="privacy.html">Privacy Policy</a> | <a href="terms.html">Terms
