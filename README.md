@@ -41,8 +41,7 @@ Ensure you have the following installed:
 
   ## Contributors
   1. Jayasanka Hirimuthugodage (https://github.com/jayasankahirimuthugodage)
-     - Crud operations of Admin manage pharmacist accounts,  Crud operations of Admin manage user accounts, Admin login, Admin forgot       
-       password functionality, Admin dashborad page
+     - Crud operations of Admin manage pharmacist accounts,  Crud operations of Admin manage user accounts, Admin login, Admin forgot password functionality, Admin dashborad page
        
   2. Migara Wijesinghe (https://github.com/migarasliit)
      - Customer signup, Customer login, Crud operations of user profile, Crud operations of Admin manage products
