@@ -73,7 +73,7 @@
 		    text-decoration: none;
 		    padding: 0.5rem 1rem;
 		    border-radius: 4px;
-		    transition: background-color 0.3s;
+		    transition: background-color 0.4s;
 		}
 		
 		.nav-menu a:hover {
