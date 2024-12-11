@@ -241,7 +241,7 @@
     <header class="header">
         <div class="logo">
             <img src="images/logo.png" alt="Ceylon Care Logo">
-            <h1>Ceylon Care</h1>
+            <h1>Ceylon Care Medicine System</h1>
         </div>
         <nav class="nav-menu">
             <a href="home.jsp">Home</a>
