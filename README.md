@@ -39,4 +39,10 @@ Ensure you have the following installed:
 - **MySQL Database** (or any other relational database): [Download MySQL](https://dev.mysql.com/downloads/)
 - **Eclipse IDE** (for development): [Download Eclipse](https://www.eclipse.org/downloads/)
 
+  ## Contributors
+  1. Jayasanka Hirimuthugodage([httpsjayasankahirimuthugodage] (https://github.com/jayasankahirimuthugodage)
+  2. Migara Wijesinghe (https://github.com/migarasliit)
+  3. Monal Wickramasinghe (https://github.com/kavithra1000)
+  4. Chanuka Wimalasiri (https://github.com/chanuka001)
+
 
