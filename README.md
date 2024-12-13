@@ -39,17 +39,26 @@ Ensure you have the following installed:
 - **MySQL Database** (or any other relational database): [Download MySQL](https://dev.mysql.com/downloads/)
 - **Eclipse IDE** (for development): [Download Eclipse](https://www.eclipse.org/downloads/)
 
-  ## Contributors
-  1. Jayasanka Hirimuthugodage (https://github.com/jayasankahirimuthugodage)
-     - Crud operations of Admin manage pharmacist accounts,  Crud operations of Admin manage user accounts, Admin login, Admin forgot password functionality, Admin dashborad page
-       
-  2. Migara Wijesinghe (https://github.com/migarasliit)
-     - Customer signup, Customer login, Crud operations of user profile, Crud operations of Admin manage products
-       
-  3. Monal Wickramasinghe (https://github.com/kavithra1000)
-     - Crud operations of Contact us, Home page, About us page
-       
-  4. Chanuka Wimalasiri (https://github.com/chanuka001)
-     - Crud operations of Add to cart, Crud operations of Add card details
+## Contributors
+
+1. **[Jayasanka Hirimuthugodage](https://github.com/jayasankahirimuthugodage)**  
+   - Implemented CRUD operations for the management of pharmacist accounts (Admin).  
+   - Developed CRUD operations for user account management (Admin).  
+   - Implemented admin login and forgot password features.  
+   - Designed and developed the admin dashboard page.
+
+2. **[Migara Wijesinghe](https://github.com/migarasliit)**  
+   - Developed the customer signup and login functionalities.  
+   - Implemented CRUD operations for user profiles.  
+   - Created CRUD operations for managing products (Admin).
+
+3. **[Monal Wickramasinghe](https://github.com/kavithra1000)**  
+   - Designed and implemented CRUD operations for the "Contact Us" page.  
+   - Developed the "Home" page and "About Us" page.
+
+4. **[Chanuka Wimalasiri](https://github.com/chanuka001)**  
+   - Implemented CRUD operations for the "Add to Cart" functionality.  
+   - Developed CRUD operations for managing card details.
+
 
 
